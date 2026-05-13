@@ -144,7 +144,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in Poland](Project/images/Trending_Top_Skills_for_Data_Analysts_in_Poland.png)  
+![Trending Top Skills for Data Analysts in Poland](Project/images/trending_skills_plot.png)  
 *Bar graph visualizing the trending top skills for data analysts in Poland in 2023.*
 
 ### Insights:
